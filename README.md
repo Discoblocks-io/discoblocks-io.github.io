@@ -1,2 +1,2 @@
-# discoblocks-io.github.io
-Website content for the project trousseau.io
+Redirecting to https://github.com/ondat/discoblocks
+Discoblocks repo is available here: https://github.com/ondat/discoblocks
